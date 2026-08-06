@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#8dc1de"/>
+  <rect y="560" width="1200" height="240" fill="#8bc34a"/>
+  <path d="M0 600 C180 520 340 480 480 520 C620 560 780 610 1200 530 L1200 800 L0 800 Z" fill="#6aa84f"/>
+  <path d="M0 640 C160 590 320 565 480 600 C650 640 840 700 1200 620 L1200 800 L0 800 Z" fill="#4c7a3f"/>
+  <path d="M860 270 L750 470 L980 470 Z" fill="#6b8e23"/>
+  <path d="M760 270 L640 470 L900 470 Z" fill="#7ba23f"/>
+  <rect x="160" y="360" width="220" height="180" rx="6" fill="#8b5a3c"/>
+  <rect x="180" y="320" width="180" height="80" rx="6" fill="#a66d44"/>
+  <rect x="220" y="400" width="40" height="140" fill="#654321"/>
+  <rect x="300" y="400" width="40" height="140" fill="#654321"/>
+  <rect x="190" y="430" width="80" height="24" fill="#f4d03f"/>
+  <rect x="280" y="430" width="60" height="24" fill="#f4d03f"/>
+  <rect x="640" y="420" width="120" height="120" rx="8" fill="#b97a56"/>
+  <rect x="660" y="390" width="80" height="80" rx="6" fill="#c88e63"/>
+  <rect x="610" y="540" width="170" height="40" fill="#6e4c2d"/>
+  <rect x="220" y="540" width="130" height="30" fill="#5a3d1d"/>
+  <circle cx="930" cy="220" r="80" fill="#f7e9b1" opacity="0.9"/>
+  <path d="M192 220 C264 180 314 186 364 220" stroke="#3c6e2d" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M196 250 C266 216 324 224 372 262" stroke="#4f8a35" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M730 180 Q820 120 900 180" stroke="#5b8b3b" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M690 250 Q760 220 820 250" stroke="#6e9d45" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <rect x="100" y="520" width="140" height="40" fill="#ffffff" opacity="0.65"/>
+  <text x="120" y="548" fill="#2e6b3f" font-family="Segoe UI, sans-serif" font-size="24">Desa Sejahtera</text>
+</svg>
